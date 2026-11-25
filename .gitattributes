@@ -1,0 +1,4 @@
+/target export-ignore
+/build export-ignore
+/.env export-ignore
+/tests export-ignore
